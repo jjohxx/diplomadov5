@@ -1,0 +1,13 @@
+---
+
+## Automated Scenarios
+
+I have implemented automation for the following scenarios:
+
+1. Creating a user using the 'Sign Up Free' button.
+2. Logging out.
+3. Logging in.
+4. Creating a new project named 'Diplomado V5.'
+5. Adding a new to-do item named 'Completed Task.'
+
+---
